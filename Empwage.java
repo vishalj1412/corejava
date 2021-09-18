@@ -1,4 +1,4 @@
-Emp wage 
+
 package code;
 import java.util.*;
 public class Empwage {
