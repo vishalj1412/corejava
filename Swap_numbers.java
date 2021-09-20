@@ -1,4 +1,5 @@
 package code;
+
 import java.util.*;
 public class Swap_numbers {
 	public static void main(String args[]) {
