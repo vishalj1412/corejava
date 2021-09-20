@@ -1,6 +1,6 @@
 package code;
 
-public class This {
+public class This {  
 	int age;
 	
 	This(int age){
