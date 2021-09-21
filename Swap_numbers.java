@@ -11,7 +11,7 @@ public class Swap_numbers {
 temp=x;
 x=y;
 y=temp;
-System.out.println("X is"+x+"y is"+y);
+System.out.println("X is"+x  + "y is"+y);
 
 	}
 
