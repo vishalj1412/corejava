@@ -14,5 +14,4 @@ y=temp;
 System.out.println("X is"+x  + "y is"+y);
 
 	}
-
 }
