@@ -30,7 +30,5 @@ public class Perfect_Number {
 	else{
 	System.out.println("number is not perfect number");
 	}
-	   
-	  
-	}
+	   }
 	}
