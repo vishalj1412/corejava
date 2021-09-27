@@ -13,6 +13,6 @@ public class Even_Odd_number {
 		}else{
 		System.out.println(num+"is odd number");
 		}  
-		}
+           }
 
-}
+    }
