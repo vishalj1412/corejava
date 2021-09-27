@@ -8,10 +8,10 @@ public class Swap_numbers {
 	int x=scan.nextInt();
 	int y=scan.nextInt();
 	int temp;
-temp=x;
-x=y;
-y=temp;
-System.out.println("X is"+x  + "y is"+y);
+        temp=x;
+        x=y;
+        y=temp;
+        System.out.println("X is"+x  + "y is"+y);
 
 	}
-}
+  }
