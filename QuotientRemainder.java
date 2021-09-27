@@ -15,4 +15,4 @@ public class QuotientRemainder {
 	    System.out.println("Quotient = " + quotient);
 	    System.out.println("Remainder = " + remainder);
 	  }
-	}
+       }
